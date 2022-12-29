@@ -1,0 +1,18 @@
+li{
+    list-style: none;
+    background-color: #edf2f7;
+    margin-top: 0.5rem;
+    height: 3rem;
+    border-radius: 0.4rem;
+    padding: 0.5rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width: 45rem;
+}
+span{
+   color: #319795;
+}
