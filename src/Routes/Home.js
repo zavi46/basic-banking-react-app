@@ -7,7 +7,6 @@ const Home = () => {
     const history = useNavigate()
     return (
 <>
-      <Heading position='absolute' left='0.5rem' top='0.5rem' fontSize='2.5rem'><span>TSF-Bank</span></Heading>
         <Box
           display='flex'
           height='100vh'

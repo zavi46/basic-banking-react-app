@@ -38,7 +38,7 @@ const Customers = () => {
         ||
         <Heading
           width='80%'
-          marginTop='1rem'
+          marginTop='4rem'
           as='h2' 
           size='2xl'
         >All Customers</Heading>}
